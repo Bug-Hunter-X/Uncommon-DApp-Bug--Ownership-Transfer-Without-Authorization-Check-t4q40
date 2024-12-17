@@ -1,0 +1,1 @@
+This repository demonstrates a common vulnerability in DApps:  unprotected ownership transfer. The `ownershipBug.sol` contract allows any address to transfer ownership, bypassing authorization checks. This is fixed in `ownershipSolution.sol`.
